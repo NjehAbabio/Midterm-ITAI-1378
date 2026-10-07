@@ -111,13 +111,13 @@ The project will be considered successful if the model reliably detects license 
 
 > **WIP — Final schedule will be confirmed by the group.**
 
-| Phase              | Timeline  | Goal                                                                              |
-| ------------------ | --------- | --------------------------------------------------------------------------------- |
-| Blueprint          | Week 5    | Finalize project scope, dataset plan, and technical approach                      |
-| First Working Demo | Week 6    | Run a pretrained YOLO model on sample images and produce license plate detections |
-| Make It Yours      | Weeks 7–8 | Fine-tune the model and build the license plate detection workflow                |
-| Improve & Measure  | Week 9    | Evaluate performance, tune the model, and document results                        |
-| Package & Present  | Week 10   | Finalize the notebook, README, demo, and presentation                             |
+| Phase              | Timeline    | Goal                                                                              |
+| ------------------ | ---------   | --------------------------------------------------------------------------------- |
+| Blueprint          | Week 10     | Submit proposal and create GitHub repository                                      |
+| First Working Demo | Week 11     | Run pretrained YOLO on a few license-plate images                                 |
+| Make It Yours      | Weeks 12–13 | Prepare data, fine-tune YOLO, and produce annotated output images                 |
+| Improve & Measure  | Week 14     | Test the held-out set; record mAP@50, precision, and inference time               |
+| Package & Present  | Week 15     | Record demo, complete README, finalize slides, submit Final                       |
 
 ---
 
